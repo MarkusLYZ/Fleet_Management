@@ -1,0 +1,10 @@
+F01,2,London,700
+F02,6,London,720
+F03,2,London,710
+F04,2,Paris,700
+F05,6,Paris,720
+F06,2,Paris,710
+F07,6,London,730
+F08,4,Paris,1000
+F10,6,Paris,730
+F12,4,London,1900

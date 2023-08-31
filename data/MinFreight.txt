@@ -1,0 +1,12 @@
+1,F02,6,London,720,C09,London,745
+2,F02,5,London,720,C10,London,745
+3,F01,2,London,700,C01,London,720
+4,F01,1,London,700,C02,London,720
+5,F03,2,London,710,C03,London,720
+6,F03,1,London,710,C04,London,720
+7,F05,6,Paris,720,C19,Paris,745
+8,F05,5,Paris,720,C20,Paris,745
+9,F04,2,Paris,700,C16,Paris,720
+10,F04,1,Paris,700,C17,Paris,720
+11,F06,2,Paris,710,C18,Paris,720
+12,F06,1,Paris,710,C11,Paris,720

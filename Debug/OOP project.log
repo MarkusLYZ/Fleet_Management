@@ -1,0 +1,25 @@
+﻿  Base.cpp
+  Cargo.cpp
+C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Cargo.cpp(29,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Cargo.cpp(69,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Cargo.cpp(120,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Cargo.cpp(165,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Cargo.cpp(204,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Cargo.cpp(232,27): warning C4018: '<': signed/unsigned mismatch
+  Freight.cpp
+C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Freight.cpp(48,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Freight.cpp(86,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Freight.cpp(137,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Freight.cpp(200,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Freight.cpp(236,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Freight.cpp(276,27): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Main.cpp(557,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Main.cpp(578,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Main.cpp(615,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Main.cpp(633,31): warning C4018: '<': signed/unsigned mismatch
+  Menu.cpp
+  Schedule.cpp
+  Generating Code...
+  LINK : C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Debug\OOP project.exe not found or not built by the last incremental link; performing full link
+  OOP project.vcxproj -> C:\Users\harro\Downloads\Telegram Desktop\OOP project_update_2200Hrs\OOP project_update_2130Hrs\OOP project_update_1540Hrs\OOP project\Debug\OOP project.exe
